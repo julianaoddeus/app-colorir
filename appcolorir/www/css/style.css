@@ -1,0 +1,21 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body {
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.painel {
+    background-color: rgba(0,0,0, 0.3);
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+}
+
+.painel button {
+    padding: 15px;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
